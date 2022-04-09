@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 import re
 
 def le_assinatura():
